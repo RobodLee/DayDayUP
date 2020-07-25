@@ -28,6 +28,7 @@
    + [畅购商城(三)：商品管理](https://mp.weixin.qq.com/s/IWw0AiITZdIZLzLWxTtDPA)
    + [畅购商城(四)：Lua、OpenResty、Canal实现广告缓存与同步](https://mp.weixin.qq.com/s/rcKc-JVWqZLixFUZ9ejoig)
    + [畅购商城(五)：Elasticsearch实现商品搜索](https://mp.weixin.qq.com/s/aYm5-8HMxo6EzIIeeThPUA)
+   + [畅购商城(六)：商品搜索](https://mp.weixin.qq.com/s/8h4zOdI8rO8XVYEooMQXOA)
   + [账本APP服务端开发](https://mp.weixin.qq.com/s/OuamUBvgRiGSVBsdcFnyuA)
     
   
