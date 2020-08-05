@@ -30,6 +30,7 @@
    + [畅购商城(五)：Elasticsearch实现商品搜索](https://mp.weixin.qq.com/s/aYm5-8HMxo6EzIIeeThPUA)
    + [畅购商城(六)：商品搜索](https://mp.weixin.qq.com/s/8h4zOdI8rO8XVYEooMQXOA)
    + [畅购商城(七)：Thymeleaf实现静态页](https://mp.weixin.qq.com/s/4i_daTCYmCUiwrKPldDFQA)
+  + [畅购商城(八)：微服务网关和JWT令牌](https://mp.weixin.qq.com/s/YrMqp7WT2ByEHMfARhLotw)
   + [账本APP服务端开发](https://mp.weixin.qq.com/s/OuamUBvgRiGSVBsdcFnyuA)
   
 + ## DeBug
