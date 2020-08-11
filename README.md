@@ -20,6 +20,7 @@
 + ## Java框架 / 工具
    + [SSM三大框架的整合](https://mp.weixin.qq.com/s/pObP1yrOp0xXKWXN4m3Kiw)
    + [Elasticsearch入门指南](https://mp.weixin.qq.com/s/Aw7hKHKO1VzUEIpgvFQ6pA)
+   + [SpringBoot整合Spring Security](https://mp.weixin.qq.com/s/7oZjMWjzBfy2TExhSQRlZw)
 
 
 + ## Java项目实战
