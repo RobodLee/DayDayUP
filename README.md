@@ -21,6 +21,7 @@
    + [SSM三大框架的整合](https://mp.weixin.qq.com/s/pObP1yrOp0xXKWXN4m3Kiw)
    + [Elasticsearch入门指南](https://mp.weixin.qq.com/s/Aw7hKHKO1VzUEIpgvFQ6pA)
    + [SpringBoot整合Spring Security](https://mp.weixin.qq.com/s/7oZjMWjzBfy2TExhSQRlZw)
+   + [OAuth2.0分布式系统环境搭建](https://mp.weixin.qq.com/s/jLjZh-QMwu_Tcr5d9Zbzdw)
 
 
 + ## Java项目实战
