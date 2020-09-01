@@ -2,7 +2,7 @@
 
 ![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/QRcode2.0.png)
 
-# 目录(Ctrl+F搜索)
+# 目录（ Ctrl+F 搜索）
 
 + ## Java基础
    + [ArrayList中存放的是值还是引用?](https://mp.weixin.qq.com/s/H86Th9zcSaY0FR_xXad2jA)
@@ -55,12 +55,12 @@
 
 ***
 
-+ ## MySQL
++ ## 数据库
    + 
    
 
 
-+ ## Linux
++ ## 操作系统
    + 
 
 ***
@@ -76,8 +76,6 @@
 
 ***
 
-+ ## 物联网and单片机
++ ## 虾扯蛋
 
-
-
-+ ## 杂谈
+	+ 
