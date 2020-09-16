@@ -4,7 +4,7 @@
 + [简书](https://www.jianshu.com/u/ec72a5e1a8ca)
 + [掘金](https://juejin.im/user/3175045314120631)
 + [博客园](https://www.cnblogs.com/robod/)
-+ [微信公众号：**Robod**]()
++ [微信公众号：**Robod**](https://gitee.com/RobodLee/image_store/blob/master/QRcode2.0.png)
 
 ![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/QRcode2.0.png)
 
@@ -59,6 +59,7 @@
 
 + ## Android
    + [账本APP开发](https://mp.weixin.qq.com/s/CxgLqTlYSIbuY-pdivObQQ)
+   + [Android实现二值点阵图识别](https://mp.weixin.qq.com/s/GvTlSheE1uyJvdW9fcMt6A)
 
 ***
 
