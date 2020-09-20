@@ -47,6 +47,7 @@
   + [畅购商城(十)：购物车](https://mp.weixin.qq.com/s/pAtA4HRt-LTWrGH-J9iHCA)
   + [畅购商城(十一)：订单](https://mp.weixin.qq.com/s/_trFUjuzq20FsR6jRQNgZA)
   + [畅购商城(十二)：接入微信支付](https://mp.weixin.qq.com/s/ErgN_fQEZi06JKqO1xaA6Q)
+  + [畅购商城(十三)：秒杀系统「上」](https://mp.weixin.qq.com/s/HPJrHHFX4azmzWVa4K-BdA)
   + [账本APP服务端开发](https://mp.weixin.qq.com/s/OuamUBvgRiGSVBsdcFnyuA)
   
 ***
