@@ -1,10 +1,11 @@
 # **DayDayUP**
 
-+ [CSDN](https://blog.csdn.net/weixin_43461520)
-+ [简书](https://www.jianshu.com/u/ec72a5e1a8ca)
-+ [掘金](https://juejin.im/user/3175045314120631)
-+ [博客园](https://www.cnblogs.com/robod/)
-+ [微信公众号：**Robod**](https://gitee.com/RobodLee/image_store/blob/master/QRcode2.0.png)
+   + [CSDN](https://blog.csdn.net/weixin_43461520)
+   + [掘金](https://juejin.im/user/3175045314120631)
+   + [知乎](https://www.zhihu.com/column/c_1293512154398547968)
+   + [博客园](https://www.cnblogs.com/robod/)
+   + [简书](https://www.jianshu.com/u/ec72a5e1a8ca)
+   + 微信公众号：[**Robod**](https://github.com/RobodLee/DayDayUP/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/QRcode2.0.png)
 
@@ -48,6 +49,7 @@
   + [畅购商城(十一)：订单](https://mp.weixin.qq.com/s/_trFUjuzq20FsR6jRQNgZA)
   + [畅购商城(十二)：接入微信支付](https://mp.weixin.qq.com/s/ErgN_fQEZi06JKqO1xaA6Q)
   + [畅购商城(十三)：秒杀系统「上」](https://mp.weixin.qq.com/s/HPJrHHFX4azmzWVa4K-BdA)
+  + [畅购商城(十四)：秒杀系统「下」](https://mp.weixin.qq.com/s/8xHDjf3NirA-aQxS4xsOUQ)
   + [账本APP服务端开发](https://mp.weixin.qq.com/s/OuamUBvgRiGSVBsdcFnyuA)
   
 ***
