@@ -19,6 +19,7 @@
 
 + ## Java并发
    + [Java并发学习(一)：进程和线程](https://mp.weixin.qq.com/s/1qA1OTGiX-hYV7x-iT2tlA)
+   + [Java线程池初步解读](https://mp.weixin.qq.com/s/WoKh91D9BTC2I55aVAgBHw)
 
 ***
 
