@@ -55,10 +55,8 @@
   
 ***
 
-+ ## DeBug
-  + [Maven遇坑总结：Cannot resolve plugin XXX、程序包XXX不存在、找不到符号XXX](https://mp.weixin.qq.com/s/KOXMk2chGLwTLQ2xIlxSFA)
-  + [【Bug记录】Mapped Statements collection already contains value for ...](https://mp.weixin.qq.com/s/5Wec6inppcQuK8GGFpPu3Q)
-  
++ ## Web前端
+  + [HTML常用标签总结](https://mp.weixin.qq.com/s/O9afIhdAoLDAwymRnYgA5w)
 ***
 
 + ## Android
