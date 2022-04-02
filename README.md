@@ -69,8 +69,9 @@
 
 ***
 
-+ ## 数据库
-   + 
++ ## 数据结构与算法
+   + [数据结构笔记——线性表](https://mp.weixin.qq.com/s/LRxP-rCOYdnfSZlxYQ__6w)
+   + [数据结构笔记——栈和队列](https://mp.weixin.qq.com/s/X0cvpaeFDHMQ78uWUOtMqg)
    
 
 
