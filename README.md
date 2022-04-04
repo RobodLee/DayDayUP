@@ -72,6 +72,8 @@
 + ## 数据结构与算法
    + [数据结构笔记——线性表](https://mp.weixin.qq.com/s/LRxP-rCOYdnfSZlxYQ__6w)
    + [数据结构笔记——栈和队列](https://mp.weixin.qq.com/s/X0cvpaeFDHMQ78uWUOtMqg)
+   + [数据结构笔记——串](https://mp.weixin.qq.com/s/a-YPy06hFi7c2LtTMOmbiw)
+   + [用故事解释顺序结构与链式结构](https://mp.weixin.qq.com/s/8VxfUeYECWRqEa0OhypVag)
    
 
 
