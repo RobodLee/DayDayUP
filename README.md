@@ -75,7 +75,7 @@
    + [数据结构笔记——串](https://mp.weixin.qq.com/s/a-YPy06hFi7c2LtTMOmbiw)
    + [数据结构笔记——树与二叉树](https://mp.weixin.qq.com/s/S-SYE0kEe_hm0DK5kDAnTg)
    + [数据结构笔记——图](https://mp.weixin.qq.com/s/w0c6_uOMkHUGlZ9SnwikRw)
-   + 数据结构笔记——查找
+   + [数据结构笔记——查找](https://mp.weixin.qq.com/s/12ZFVqem4J6D1I5kay7Pww)
    + [数据结构笔记——排序](https://mp.weixin.qq.com/s/ETwBwZxScexlC_J0CuxKiQ)
    + [用故事解释顺序结构与链式结构](https://mp.weixin.qq.com/s/8VxfUeYECWRqEa0OhypVag)
    
