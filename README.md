@@ -99,6 +99,7 @@
   + [怎么下载腾讯课堂M3U8格式的视频](https://mp.weixin.qq.com/s/LAUIeJd1iq2NSgygK1NV4w) 
   + [写文章一年了，我用到的工具都在这儿了！](https://mp.weixin.qq.com/s/mVB_ZouVeit9aFkJSTNBDA)
   + [如何在阿里云轻量应用服务器Centos7.6上安装GNOME图形界面](https://mp.weixin.qq.com/s/pTV32cqCn188kKaXinCtHg)
+  + [你是个成熟的项目了，该学会自动构建自动部署了](你是个成熟的项目了，该学会自动构建自动部署了)
 
 ***
 
