@@ -100,6 +100,7 @@
   + [写文章一年了，我用到的工具都在这儿了！](https://mp.weixin.qq.com/s/mVB_ZouVeit9aFkJSTNBDA)
   + [如何在阿里云轻量应用服务器Centos7.6上安装GNOME图形界面](https://mp.weixin.qq.com/s/pTV32cqCn188kKaXinCtHg)
   + [你是个成熟的项目了，该学会自动构建自动部署了](https://mp.weixin.qq.com/s/3ULJS0f6RAlgY4XYQe-7Pg)
+  + [巧用GitHub Action实现自动化部署Java项目](https://mp.weixin.qq.com/s/sSIJiyT06Vlwnyw980HQGQ)
 
 ***
 
