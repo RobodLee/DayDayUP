@@ -14,7 +14,7 @@
 + ## Java基础
    + [ArrayList中存放的是值还是引用?](https://mp.weixin.qq.com/s/H86Th9zcSaY0FR_xXad2jA)
    + [从ifelse到策略模式，谈谈我对设计模式的理解](https://mp.weixin.qq.com/s/6uei5YppusWulKSaDTg5qQ)
-
+   + [一个如此简单的引用问题，竟让我排查了半天](https://mp.weixin.qq.com/s/K1Ps1xN9EHjK2Y4uyFXN2A)
 
 ***
 
