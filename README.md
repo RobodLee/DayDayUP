@@ -108,5 +108,6 @@
 
 + ## 方案设计
   + [你要动态建表，还要动态导入Excel？](https://mp.weixin.qq.com/s/HJRVGziV1DpB633nbVvUOg)
+  + [每天从外部系统同步百万数据，用什么方案？](https://mp.weixin.qq.com/s/8bUEEyNZjptGhJr0U6mkmQ)
 
 ***
